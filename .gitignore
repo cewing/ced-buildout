@@ -2,6 +2,7 @@ develop-eggs
 parts
 var
 bin
+src
 .installed.cfg
 .mr.developer.cfg
 buildout.cfg
