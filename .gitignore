@@ -4,3 +4,4 @@ var
 bin
 .installed.cfg
 .mr.developer.cfg
+buildout.cfg
